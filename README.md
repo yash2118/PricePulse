@@ -1,5 +1,5 @@
 # PricePulse
-I'm excited to share my latest project - a smart shopping assistant that leverages AI to help consumers find the best deals worldwide!
+A smart shopping assistant that leverages AI to help consumers find the best deals worldwide!
 
 🔹 Global Price Comparison Engine
 
