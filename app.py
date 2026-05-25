@@ -13,7 +13,7 @@ import webbrowser
 from collections import defaultdict
 
 # --- Configuration ---
-GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY", "AIzaSyDB1x5oKdlhXMDqXwulORcO9G78qjOy_b8")
+GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
